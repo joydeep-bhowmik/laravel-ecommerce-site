@@ -6,6 +6,13 @@ A **full‑featured e‑commerce platform** built with **Laravel** and **Blade**
 
 It’s designed to be simple to set up and extend for real‑world online store needs.
 
+## Previews
+
+![Screenshot 1](previews/Screenshot%202026-01-12%20162223.png)
+![Screenshot 2](previews/Screenshot%202026-01-12%20162507.png)
+![Screenshot 3](previews/Screenshot%202026-01-12%20164811.png)
+![Screenshot 4](previews/Screenshot%202026-01-12%20164953.png)
+
 ---
 
 ## 🚀 Features
@@ -136,6 +143,7 @@ php artisan serve
 Visit: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
+
 
 
 
